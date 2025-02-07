@@ -7,7 +7,7 @@
 //Teste larissa
 
 int main() {
-    char cidade[30];
+    char cidade;
     int codigo;
     int populacao;
     float area;
