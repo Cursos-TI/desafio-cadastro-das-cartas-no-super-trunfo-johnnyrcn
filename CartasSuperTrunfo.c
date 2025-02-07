@@ -15,7 +15,7 @@ int main() {
     int pts_turisticos;
 
     printf("Insira o nome da cidade: ");
-    scanf("%s", &cidade);
+    scanf("%c", &cidade);
 
     printf("Insira o código da cidade: ");
     scanf("%d", &codigo);
