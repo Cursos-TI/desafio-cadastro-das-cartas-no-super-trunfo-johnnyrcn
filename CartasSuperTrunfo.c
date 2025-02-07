@@ -32,7 +32,7 @@ int main() {
     printf("Insira a quantidade de pontos turísticos: ");
     scanf("%d", &pts_turisticos);
 
-    printf("Cidade: %s\n", cidade);
+    printf("Cidade: %c\n", cidade);
     printf("Código da cidade: %d\n", codigo);
     printf("Tamanho da população: %d\n", populacao);
     printf("Tamanho da área: %f\n", area);
