@@ -29,7 +29,7 @@ int main() {
     scanf("%d", &pts_turisticos1);
 
 //Área onde será exibido na tela os dados da carta 1 que o usuário inseriu
-    printf("Dados referentes à Carta 1\n");
+    printf("\nDados referentes à Carta 1\n");
     printf("Cidade: %s\n", cidade1);
     printf("Código da cidade: %d\n", codigo1);
     printf("Tamanho da população: %ld pessoas\n", populacao1);
@@ -72,7 +72,7 @@ int main() {
     scanf("%d", &pts_turisticos2);
 
 //Área onde será exibido na tela os dados da carta 1 que o usuário inseriu
-    printf("Dados referentes à Carta 2\n");
+    printf("\nDados referentes à Carta 2\n");
     printf("Cidade: %s\n", cidade2);
     printf("Código da cidade: %d\n", codigo2);
     printf("Tamanho da população: %ld pessoas\n", populacao2);
